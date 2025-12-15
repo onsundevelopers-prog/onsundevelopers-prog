@@ -30,6 +30,7 @@
   
   - <b>HTML and CSS</b>
   
-  - <b>Cryptocurenties and Investing</b> </br>
+  - <b>Cryptocurenties and Investing</b>
+    </br>
     
 
