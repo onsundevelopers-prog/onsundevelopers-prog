@@ -25,11 +25,11 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)] </br>
   
  
-<h2> My Skills </h2> 
+<h2> My Skills </h2> <br>
   - <b>Python</b>
   
   - <b>HTML and CSS</b>
   
-  - <b>Cryptocurenties and Investing</b>
+  - <b>Cryptocurenties and Investing</b> </br>
     
 
