@@ -27,7 +27,9 @@
  
 <h2> My Skills </h2> 
   - <b>Python</b>
+  
   - <b>HTML and CSS</b>
+  
   - <b>Cryptocurenties and Investing</b>
     
 
