@@ -26,11 +26,12 @@
   
  
 <h2> My Skills </h2> <br>
-   - <b>Python</b>
   
    - <b>HTML and CSS</b>
   
    - <b>Cryptocurenties and Investing</b>
+
+   - <b>Python<b>
      </br>
     
 
