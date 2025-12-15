@@ -11,7 +11,7 @@
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-  <h2>👨‍💻Future Projects I forsee to create in 2026 </h2>
+<h2>👨‍💻Future Projects I forsee to create in 2026 </h2>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [JWipe (Disk Wiping Utility)]
