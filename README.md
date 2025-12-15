@@ -26,18 +26,8 @@
   
  
 <h2> My Skills </h2> 
-<ul>
-  <il>
-    Python 
-  </il>
-  <il>
-    HTML and CSS
-  </il>
-  <il>
-    Cryptocurrencies and Investing
-  </il>
-</ul>
-</ul>
-
+  - <b>Python</b>
+  - <b>HTML and CSS</b>
+  - <b>Cryptocurenties and Investing</b>
     
 
