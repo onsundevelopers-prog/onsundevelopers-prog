@@ -10,8 +10,8 @@
 - <b> Full-Stack Weather App <b>
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
-  - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
-<h2>👨‍💻Future Projects I forsee to create in 2026 </h2>
+<h2> 2026 Projects </h2> <br>
+
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
   - [JWipe (Disk Wiping Utility)]
@@ -22,6 +22,14 @@
   - [Ransomware Proof of Concept (Decrypter)]
   - [Keylogger with Email Capability]
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)]
+  - [Package Delivery Application (Datastructures and Algorithms Demo)] </br>
+  
+ 
+<h2> My Skills </h2> <br>
+- <b>Investing/Cryptocurrencies</b>
+- <b>Python</b>
+- <b>HTML and CSS</b>
+- <b>mentoring<b>
 
+    
 
