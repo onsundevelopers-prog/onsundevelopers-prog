@@ -12,17 +12,17 @@
 
 <h2> 2026 Projects </h2> <br>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation]
-  - [FIM (File Integrity Monitor)]
+- <b>HTML and CSS</b>
+   - Probably Mostly Vibe Coded
+   - Calculator 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)]
   - [Ransomware Proof of Concept (Decrypter)]
   - [Keylogger with Email Capability]
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)] </br>
+  - <br> Simple ChatBot </br>
+  - <br> A Crawler</br>
+  - <br>something made from made from apis</br>
   
  
 <h2> My Skills </h2> <br>
