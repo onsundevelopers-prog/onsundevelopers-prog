@@ -2,8 +2,7 @@
 
 
 <h1>Hi, I'm Ose! </h1> <br>
-<p>The 13 yo AI-audumented developer/Owner of Gamespark and Minawrite</p>
-<p>Github repos for minawrite and gamespark coming in 2026 - 2027</p>
+<p>The 13 yo AI-augumented developer/Owner of Gamespark and Minawrite</p>
 
 <h2>👨‍💻 Software Development Projects i've made! </h2>
 
