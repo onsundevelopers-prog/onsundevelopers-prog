@@ -2,7 +2,7 @@
 
 
 <h1>Hi, I'm Ose! </h1> <br>
-<p>The 13 yo AI-augumented developer/Owner of Gamespark and Minawrite</p>
+<p>The  AI-augumented developer/Owner of Gamespark and Minawrite</p>
 
 <h2>👨‍💻 Software Development Projects i've made! </h2>
 
