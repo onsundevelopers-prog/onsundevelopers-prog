@@ -13,7 +13,6 @@
 <h2> 2026 Projects </h2> <br>
 
 - <b>HTML and CSS</b>
-   - Probably Mostly Vibe Coded
    - Calculator 
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)]
