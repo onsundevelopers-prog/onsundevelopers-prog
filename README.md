@@ -20,8 +20,6 @@
   - [Keylogger with Email Capability]
 - <b>Python</b>
   -  Simple ChatBot 
-  -  
-  - something made from made from apis
   
  
 <h2> My Skills </h2> <br>
